@@ -1,0 +1,4 @@
+google-generativeai
+pyautogui
+requests
+python-dotenv
